@@ -1,0 +1,27 @@
+.message {
+  width: 100%;
+}
+.message-badges {
+  height: 22px;
+}
+
+img[badge] {
+  margin: 1px;
+  height: 22px;
+  width: 22px;
+}
+
+img[emote] {
+  margin: 1px;
+  height: 22px;
+  width: 22px;
+}
+
+span[word] {
+  margin: 0 3px;
+}
+
+#message_space {
+  position: absolute;
+  bottom: 0;
+}
